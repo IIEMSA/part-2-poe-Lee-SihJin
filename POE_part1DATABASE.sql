@@ -32,3 +32,18 @@ CREATE TABLE Booking (
     FOREIGN KEY (VenueId) REFERENCES Venue(VenueId),
     CONSTRAINT UC_Booking UNIQUE (VenueId, BookingDate)
 );
+
+INSERT INTO Venue (VenueName, Location, Capacity,ImageUrl)
+VALUES ('Lt 1', 'Building B', '300','https://www.image1')
+
+INSERT INTO Event (EventName, EventDate, Description, VenueId)
+VALUES ('Tech Conference', '2025-05-15 10:00:00', 'Annual tech conference', 1),
+       ('Music Fest', '2025-06-20 18:00:00', 'Outdoor music festival', 1);
+
+INSERT INTO Booking (EventId, VenueId, BookingDate)
+VALUES (1, 1, '2025-05-15 09:00:00'),
+       (2, 1, '2025-06-20 17:00:00');
+
+SELECT * FROM Venue;
+SELECT * FROM Event;
+SELECT * FROM Booking;

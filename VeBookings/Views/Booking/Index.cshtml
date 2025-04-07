@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<VeBookings.Models.Booking>
+
+@{
+    ViewData["Title"] = "Booking Page";
+}
+
+<h1>Booking</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Venue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Event)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Venue.VenueId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Event.EventId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookingDate)
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.BookingId">Delete</a> |
+ |
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
