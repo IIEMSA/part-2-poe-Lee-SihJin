@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|solutionrelative:views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{679867B3-2EA6-4BB3-B37D-C03EF1A8D47B}|VeBookings.csproj|c:\\users\\lab_services_student\\desktop\\cldv\\part-1-poe-lee-sihjin\\vebookings\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -130,11 +130,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Views\\Venue\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
@@ -142,18 +142,17 @@
               "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T10:47:51.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:47:51.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Views\\Venue\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Delete.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Views\\Venue\\Delete.cshtml",
               "RelativeToolTip": "Views\\Venue\\Delete.cshtml",
-              "ViewState": "AgIAABgAAADgZmZmZmYkwA4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABgAAADgZmZmZmYkwCwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-07T10:30:18.413Z",
               "EditorCaption": ""
@@ -168,25 +167,23 @@
               "RelativeToolTip": "Views\\Event\\Index.cshtml",
               "ViewState": "AgIAAB0AAAAATTMzMzP7vzUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T12:01:22.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T12:01:22.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Views\\Venue\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Views\\Venue\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Venue\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
               "ViewState": "AgIAACIAAABAZmZmZiYgwDUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T08:40:07.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:40:07.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventController.cs",
@@ -194,21 +191,19 @@
               "RelativeToolTip": "Controllers\\EventController.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAAAH8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T11:59:12.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T11:59:12.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "VenueController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Controllers\\VenueController.cs",
               "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Controllers\\VenueController.cs",
               "RelativeToolTip": "Controllers\\VenueController.cs",
-              "ViewState": "AgIAAFcAAABAzszMzEwjwGcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAEwDkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:11:41.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:11:41.303Z"
             },
             {
               "$type": "Document",
@@ -220,8 +215,7 @@
               "RelativeToolTip": "Views\\Booking\\Create.cshtml",
               "ViewState": "AgIAABAAAAAwqZmZmZkewCMAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T19:42:14.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:42:14.069Z"
             },
             {
               "$type": "Document",
@@ -233,8 +227,7 @@
               "RelativeToolTip": "Views\\Event\\Create.cshtml",
               "ViewState": "AgIAABcAAAAASjMzMzPrvxYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T12:04:02.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T12:04:02.156Z"
             },
             {
               "$type": "Document",
@@ -246,12 +239,11 @@
               "RelativeToolTip": "Views\\Booking\\Delete.cshtml",
               "ViewState": "AgIAABAAAAAANDMzMzP7vwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T10:13:02.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T10:13:02.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "Models\\Booking.cs",
@@ -259,12 +251,11 @@
               "RelativeToolTip": "Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:54:09.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:54:09.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BookingController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CLDV\\part-1-poe-Lee-SihJin\\VeBookings\\Controllers\\BookingController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
@@ -272,8 +263,7 @@
               "RelativeToolTip": "Controllers\\BookingController.cs",
               "ViewState": "AgIAAEMAAAAAzszMzMwowFUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T19:25:34.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:25:34.828Z"
             },
             {
               "$type": "Document",
@@ -285,8 +275,7 @@
               "RelativeToolTip": "Views\\Booking\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAewDAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T19:33:09.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:33:09.41Z"
             },
             {
               "$type": "Document",
@@ -298,8 +287,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA4AAAAAZmZmZmYIwB0AAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T08:48:04.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:48:04.519Z"
             },
             {
               "$type": "Document",
@@ -311,8 +299,7 @@
               "RelativeToolTip": "Models\\Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:51:05.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:51:05.902Z"
             },
             {
               "$type": "Document",
@@ -324,8 +311,7 @@
               "RelativeToolTip": "Views\\Event\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T19:15:30.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:15:30.045Z"
             },
             {
               "$type": "Document",
@@ -337,8 +323,7 @@
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:59:40.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:59:40.411Z"
             },
             {
               "$type": "Document",
@@ -350,8 +335,7 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T09:43:47.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T09:43:47.767Z"
             },
             {
               "$type": "Document",
@@ -363,8 +347,7 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T09:43:57.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T09:43:57.301Z"
             },
             {
               "$type": "Document",
@@ -376,8 +359,7 @@
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T09:44:00.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T09:44:00.333Z"
             },
             {
               "$type": "Document",
@@ -389,8 +371,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T19:49:33.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T19:49:33.747Z"
             },
             {
               "$type": "Document",
@@ -402,8 +383,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAACgMzMzM1M9wBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T08:12:13.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T08:12:13.365Z"
             },
             {
               "$type": "Document",
@@ -415,8 +395,7 @@
               "RelativeToolTip": "VeBookings.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-07T08:40:01.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T08:40:01.112Z"
             },
             {
               "$type": "Document",
@@ -452,8 +431,7 @@
               "RelativeToolTip": "Models\\Venue.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T07:47:32.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T07:47:32.393Z"
             },
             {
               "$type": "Document",
